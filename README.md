@@ -6,7 +6,7 @@ This repository contains implementations of eight different algorithms in variou
 
 1. **Large Integers Multiplying**: This algorithm is used for multiplying large integers.
 
-   - Branch: [large-integers-multiplying](https://github.com/yourusername/yourrepository/tree/large-integers-multiplying)
+   - Branch: [large-integers-multiplying](https://github.com/MahdiAsadolahzade/Algorithm_Design_Codes/tree/large-Integers-Multiplying)
 
 2. **Merge Sort**: A sorting algorithm that uses the divide and conquer strategy.
 
