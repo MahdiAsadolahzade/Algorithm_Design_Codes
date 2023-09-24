@@ -22,7 +22,7 @@ Enter your keys' probabilities:
 
 Cost of Optimal BST is 54
 
-###Algorithm 
+### Algorithm 
 The Optimal Binary Search Tree algorithm aims to minimize the expected search cost in a binary search tree constructed from a set of keys with associated probabilities. It uses dynamic programming to compute the minimum cost of constructing an optimal BST.
 
 optCost(P, i, j): Calculates the minimum cost of constructing an optimal BST for keys in the range [i, j].
